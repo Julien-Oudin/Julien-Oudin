@@ -42,9 +42,6 @@
   <a href="https://www.linkedin.com/in/julien-oudin-25b125291/" target="_blank">
     <img src="https://static.vecteezy.com/system/resources/previews/018/930/480/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="julien.oudin@efrei.net" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg/1200px-Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg.png" width="52" height="40" alt="microsoft-outlook logo"  />
-  </a>
 </div>
 
 ###
